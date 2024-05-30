@@ -5,4 +5,6 @@ I have enjoyed every bit of the training we had
 Thanks to the team lead and other wonderful members
 We are really making progress
 echo "This is the winning team"
-echo "Go Team 4"	
+echo "Go Team 4"
+echo "Team 4 will emerge as champions"
+echo "This is because we are goal getters"
