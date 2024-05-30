@@ -1,0 +1,8 @@
+!#/bin/bash
+This will be a test run
+Team 4 has been wonderful so far
+I have enjoyed every bit of the training we had
+Thanks to the team lead and other wonderful members
+We are really making progress
+echo "This is the winning team"
+echo "Go Team 4"	
